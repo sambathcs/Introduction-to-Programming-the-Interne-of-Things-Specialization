@@ -8,7 +8,5 @@ https://www.coursera.org/specializations/iot
 <h2> Repository Content </h2>
 <p> For every course in this specialization, there is:</p>
 <ul>
-<li>  Course Summary </li>
-<li>  Course Certificate </li>
 <li>  Assignments </li>
 </ul>
